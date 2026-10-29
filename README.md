@@ -1,2 +1,3 @@
-# webdesign-trost
-Website Webdesign Trost
+# Webdesign Trost
+
+Website von Webdesign Trost (Entwurf).
